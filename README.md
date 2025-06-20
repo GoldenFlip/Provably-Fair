@@ -98,8 +98,7 @@ npm start
 ## 📬 Contact
 
 For inquiries or feedback, feel free to reach out:
-- Email: support@goldenflip.com
-- Discord: [GoldenFlip Community](https://discord.gg/goldenflip)
+- Email: goldenflip@goldenflip.fun
 
 ---
 
